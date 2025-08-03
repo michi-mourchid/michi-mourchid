@@ -27,7 +27,7 @@ I'm driven by **entrepreneurship**, with real-world experience in both freelance
 
 | Project                                      | Description                                                                                           | Techs                                                               |
 |---------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| [TomanHouse App](https://tomanhouse.app/)   | Web app for private event ticketing in Paris. In production.                                          | Next.js, TailwindCSS, TypeScript, Node.js                          |
+| [TomanHouse App](https://github.com/michi-mourchid/tomanhouse-app) [Site 🧷](https://tomanhouse.app/)   | Web app for private event ticketing in Paris. In production.                                          | Next.js, TailwindCSS, TypeScript, Node.js                          |
 | [TomanApp](https://github.com/michi-mourchid/tomanapp) _(privé)_ | Mobile version of TomanHouse. QR code generation & email sending.                                     | React Native, Expo, TypeScript                                      |
 | [Ishiki](https://github.com/michi-mourchid/app-ishiki) | Microlearning platform with spaced repetition & scoring algorithm. Academic project.                  | Spring Boot, Angular, PostgreSQL                                    |
 | [SecureShare](https://github.com/N0sti/SecureShare-Shadcn) | Cloud app for file encryption & sharing.                                                              | Next.js, TailwindCSS, TypeScript                                    |
