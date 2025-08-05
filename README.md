@@ -33,10 +33,10 @@ I'm driven by **entrepreneurship**, with real-world experience in both freelance
 |---------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | [TomanHouse App](https://github.com/michi-mourchid/tomanhouse-app) [Site 🧷](https://tomanhouse.app/)   | Web app for private event ticketing in Paris. In production.                                          | Next.js, TailwindCSS, TypeScript, Node.js                          |
 | [TomanApp](https://github.com/michi-mourchid/tomanapp) _(privé)_ | Mobile version of TomanHouse. QR code generation & email sending.                                     | React Native, Expo, TypeScript                                      |
-| [Ishiki](https://github.com/michi-mourchid/app-ishiki) | Microlearning platform with spaced repetition & scoring algorithm. Academic project.                  | Spring Boot, Angular, PostgreSQL                                    |
+| [Ishiki](https://github.com/michi-mourchid/app-ishiki) | Microlearning platform with spaced repetition & scoring algorithm. Academic project.                  | Spring Boot, Angular, PostgreSQL, Supabase                                    |
 | [SecureShare](https://github.com/N0sti/SecureShare-Shadcn) | Cloud app for file encryption & sharing.                                                              | Next.js, TailwindCSS, TypeScript                                    |
 | [MotYasi](https://motyasi.com/fr/) _(privé)_ | Shipping platform connecting travelers and senders. In production.                                     | Angular, FastAPI, Stripe, SQLite, MySQL                             |
-| Graduating Ceremony Ticketing _(privé)_     | Ticketing system with QR code & admin dashboard for a French engineering school's ceremony.           | Next.js, FastAPI, MySQL, Angular                                    |
+| Graduating Ceremony Ticketing _(privé)_     | Ticketing system with QR code & admin dashboard for a French engineering school's ceremony.           | Next.js, ExpressJS, PostreSQL                                    |
 
 ---
 
@@ -44,14 +44,14 @@ I'm driven by **entrepreneurship**, with real-world experience in both freelance
 
 - **Software Engineer – Product Owner @ EIC Canada** (Mar 2025 – Sept 2025)  
   → Designed and deployed WordPress plugins with HubSpot integration  
-  → Led 7 digital projects in AGILE
+  → Led 7 digital projects from start to finish in AGILE
 
 - **Data Analyst & Scrum Master @ IN Groupe** (Sep 2024 – Jan 2025)  
   → Built KPI dashboards with ELK, reduced review time by 80%  
   → Managed a 3-member AGILE team
 
 - **FullStack Developer @ EPF Project** (Jan 2024 – Mar 2024)  
-  → Designed technical solutions using NextJS, Angular, FastAPI
+  → Designed et developed technical solutions using Figma, NextJS, Angular, FastAPI
 
 - **Assistant Site Engineer @ ETPO** (Oct 2023 – Jan 2024)  
   → Managed project tracking automation & AGILE methods
@@ -71,16 +71,16 @@ I'm driven by **entrepreneurship**, with real-world experience in both freelance
 ## ⚙️ Skills
 
 **Languages**  
-Python · Java · JavaScript · TypeScript · PHP · HTML/CSS
+Python · Java · JavaScript · TypeScript · PHP · HTML/CSS · C#
 
 **Frameworks & Stacks**  
-FastAPI · Flask · Spring Boot · NextJS · Angular · React · React Native · Tailwind · ChakraUI
+FastAPI · Flask · Spring Boot · NextJS · Angular · ExpressJS · React · React Native · Tailwind · ChakraUI · ELK
 
 **Databases**  
-MySQL · PostgreSQL · MongoDB · SQLite
+MySQL · PostgreSQL · MongoDB · SQLite · Supabase
 
 **Tools**  
-Git · Jira · Trello · HubSpot CRM · Postman · Swagger · Stripe API · Figma · Excel VBA
+Git · Docker · Jira · Trello · HubSpot CRM · Postman · Swagger · Stripe API · Figma · Excel VBA · N8N · Canva
 
 **Soft Skills**  
 Curiosity · Creativity · Autonomy · Leadership · Teamwork
@@ -98,7 +98,6 @@ Curiosity · Creativity · Autonomy · Leadership · Teamwork
 
 - 📧 mourchid.moutuidine@hotmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mourchid-moutuidine-96064318a)  
-- 🌍 [TomanHouse App](https://tomanhouse.app/)
 
 ---
 
