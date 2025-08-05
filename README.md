@@ -3,10 +3,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
 </p>
+
 
 <p align="center">
   Fullstack Software Engineer · Entrepreneur & Tech Explorer  
