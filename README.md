@@ -91,7 +91,7 @@ Local SEO · Automation (n8n) · CRM (Twenty CRM, HubSpot) · Jira · Trello · 
 - 🏋️‍♂️ **Calisthenics & Street Workout** — High-volume endurance training (pull-ups, dips, push-ups).
 - 📸 **Digital Content Creation** — Photography (Sony a6700), professional video editing, and AI-assisted music production (RVC voice cloning).
 - 🎮 **Gaming & SysAdmin** — Server administration for dedicated gaming environments (Minecraft PaperMC, Terraria via OVH).
-- ⛩️ **Anime** — Huge fan of Naruto, Jujutsu Kaisen, and Demon Slayer.
+- ⛩️ **Anime** — Huge fan of One Piece, Vagabond, and Viland Saga.
 - 🏃 **Athletics** — Former participant at the Indian Ocean Youth Games (CJSOI).
 
 ---
